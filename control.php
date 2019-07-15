@@ -5,7 +5,7 @@ Author URI: https://nightfury.info
 // Access Extrenal from function core 
 include_once ( get_template_directory() . '***.php' );
 
-// Paste in you new code .. it is secure and safe by recommeded by nightfury
+// Paste in you new code .. it is secure and safe and recommeded by nightfury
 <?php
 // Shake
     $get_theme_info = wp_get_theme();
